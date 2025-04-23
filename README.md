@@ -18,7 +18,7 @@
 <h3>🔥GitHub Stats</h3>
  <a href="https://github.com/milad-again" >
  <img src="https://github-readme-stats.vercel.app/api?username=milad-again&show_icons=true&theme=radical"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-again"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-again&theme=radical"/>
  <a/>
  <br/>
  <h3>📞Connect Me</h3>
